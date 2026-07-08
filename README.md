@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/IIT%20Madras-BS%20Data%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0F0C29" />
+<img src="https://img.shields.io/badge/IIT%20Madras-BS%20in%20Data%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0F0C29" />
 <img src="https://img.shields.io/badge/Location-Faridabad,%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0F0C29" />
 
 <br/><br/>
